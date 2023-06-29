@@ -1,0 +1,12 @@
+# to do: 
+- create submodules
+- create board
+  - liosti xtensa esp32s3
+    - m5stack cores3 liosti-esp32de
+    - espressif esp32-s3-box liosti-esp32de
+    - espressif esp32-s3-devkitc-N32R8
+    - espressif esp32-s3-devkitc-N16R8
+    - espressif esp32-s3-devkitc-N8R8
+    - espressif esp32-s3-wroom-N16R8
+    - liosti SCO23
+    - more..
